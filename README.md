@@ -1,6 +1,7 @@
 # Winter-Internship-Project---6
 
 **Indian Cars Dataset Analysis**
+
 This repository contains the code and analysis for the Indian Cars dataset analysis project. The project involves exploratory data analysis (EDA) of the dataset to gain insights into passenger car sales in the Indian market.
 
 Dataset Overview
