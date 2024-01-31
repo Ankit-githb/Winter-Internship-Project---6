@@ -36,7 +36,7 @@ Plotly
 **Running the Analysis**
 To run the analysis notebook for the Indian Cars dataset, you can use Google Colab. Click on the following link to access the notebook:
 
-**Open In Colab** https://colab.research.google.com/drive/1phXUq2XQd5Ukw8WGmIfgVG3ihkVItehw?usp=sharing
+**Open In Colab** https://colab.research.google.com/github/Ankit-githb/Winter-Internship-Project---6/blob/main/Indian_Cars.ipynb
 
 **Getting Started**
 To get started with the analysis, follow these steps:
